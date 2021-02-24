@@ -7,7 +7,7 @@ Skills: HTML / CSS / stolen jQuery and Vue.js components
 - 🔭 I’m currently working on thesis project for my college 
 - 🌱 I’m currently learning public speaking skills 
 - 💬 Ask me about my mental health and job search 
-- ⚡ Fun fact: I like to play Dota 2 on Dark Willow 
+- 🧚 Fun fact: I like to play Dota 2 on Dark Willow 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/kawaiianxiety) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/kawaiianxiety)  

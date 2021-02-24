@@ -1,16 +1,14 @@
-### Hi there 👋
+### I'm stable in my instability
+#### Welcome to my profile, username!
+My name is Stasia, I'm from the north of the Russia. I'd like to relocate to Vladimir or Saint-Petersburg and become a web-designer or a system administrator. Also I draw, play MOBA and work with my therapist.
 
-<!--
-**kawaiianxiety/kawaiianxiety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: HTML / CSS / stolen jQuery and Vue.js components
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on thesis project for my college 
+- 🌱 I’m currently learning public speaking skills 
+- 💬 Ask me about my mental health and job search 
+- ⚡ Fun fact: I like to play Dota 2 on Dark Willow 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/kawaiianxiety) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/kawaiianxiety)  
+

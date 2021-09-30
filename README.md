@@ -1,6 +1,6 @@
 ### I'm stable in my instability
 #### Welcome to my profile, username!
-My name is Stasia, I'm from the north of the Russia, but now live in Saint-Petersburg. I study web-design, frontent and system administration. Also I draw, play MOBA and work with my therapist.
+My name is Stasia, I'm from the north of the Russia, but now live in Saint-Petersburg. I study web-design, frontent and system administration. Also I draw, write some novels, and work with my therapist.
 
 Skills: HTML / CSS / prepared jQuery and Vue.js components
 
@@ -8,8 +8,8 @@ Using instruments:
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/webstorm.svg' alt='webstorm' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/figma.svg' alt='figma' height='40'>
 
-- 🔭 I’m currently working as a technical support engineer 
-- 🌱 I’m currently learning JavaScript and think about web-design or interior design courses 
+- 🔭 I’m currently working as a client support engineer in hosting provider 
+- 🌱 I’m currently learning Bash and JavaScript and think about web-design or interior design courses 
 - 💬 Ask me about my mental health, job search and life in Saint-Petersburg
 
 

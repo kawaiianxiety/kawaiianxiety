@@ -9,7 +9,7 @@ Using instruments:
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/webstorm.svg' alt='webstorm' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/figma.svg' alt='figma' height='40'>
 
 - 🔭 I’m currently looking for a job! Write me if you need an intern or junior frontent developer.
-- 🌱 I’m currently learning Bash and JavaScript and think about web-design or interior design courses 
+- 🌱 I’m currently learning Bash and JavaScript and think about web-design courses 
 - 💬 Ask me about my mental health, job search and life in Saint-Petersburg
 
 

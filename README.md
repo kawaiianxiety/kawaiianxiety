@@ -1,17 +1,54 @@
-### I'm stable in my instability
-#### Welcome to my profile, username!
-My name is Stasia, I'm from the north of the Russia, but now I live in Saint-Petersburg. I study web-design, frontent and system administration. Also I draw, write some novels, and work with my therapist.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&weight=500&size=24&pause=1000&color=1A7BB1&center=true&vCenter=true&random=false&width=450&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%A1%D1%82%D0%B0%D1%81%D1%8F;%D0%AF+%E2%80%94+%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C)](https://git.io/typing-svg)
 
-Skills: HTML / CSS / prepared jQuery and Vue.js components
+# Обо мне
+Родилась далеко на севере, в Воркуте. Пришла в IT благодаря колледжу, где научилась разбирать компьютеры, паять и верстать сайты. Ушла в документацию, потому что миру нужны понятные руководства пользователя.
 
-Using instruments:
+Пишу по ГОСТ, но хочу уйти от этого и писать на языках разметки.
+## Что я умею:
+* читать техническую документацию на английском;
+* писать простые инструкции на английском;
+* собирать информацию из разных источников и структурировать её;
+* ориентироваться в ГОСТ 19 и ГОСТ 34 и применять их при разработке документации;
+* настраивать поля, стили и колонтитулы в Microsoft Word;
+* использовать языки разметки Markdown, XML и HTML;
+* связывать локальный репозиторий git с удалённым, коммитить и создавать пулл-реквесты;
+* создавать информативные презентации и выступать с ними публично;
+* создавать аккуратные скриншоты в графических редакторах.
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/webstorm.svg' alt='webstorm' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/figma.svg' alt='figma' height='40'>
+# Опыт работы
+## Консорциум Кодекс, февраль 2023 — настоящее время
 
-- 🔭 I’m currently working as a system administrator. And I like that!
-- 🌱 I’m currently learning Bash and JavaScript and think about web-design courses.
-- 💬 Ask me about my mental health, job search and life in Saint-Petersburg.
+***Ведущий специалист по разработке технической документации***
 
+Готовлю проектную документацию для разрабатываемых сервисов в тандеме с аналитиками. Проверяю документы на ошибки, привожу к единому виду и проверяю на соблюдение ГОСТ. Подготовила статью про API для коллег, не погружённых в разработку ПО. Также актуализировала руководство по использованию админпанели «Кодекс-Сервера».
+## Vdoke, июнь 2022 — январь 2023
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/kawaiianxiety) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/kawaiianxiety) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/kawaiianxiety) 
+***Технический писатель***
 
+Разрабатывала документацию по ГОСТ для проектов заказчиков. В основном это была рабочая документация на ПО и документация для подачи заявки в Реестр. Редактировала уже существующую документацию в команде других специалистов. Писала и рецензировала статьи для сайта компании про основные правила и тонкости разработки документации. 
+В общей сложности приняла участие в шести проектах: в двух разрабатывала документацию, в остальных рецензировала.
+# Портфолио
+## Документация на программное обеспечение Platfomni — агрегатор аптек Megapteka
+Размещена в открытом доступе, но ссылку высылаю только по требованию.
+## Статьи для сайта компании Vdoke
+[Стандарты ИСО в документации на ПО](https://vdoke.ru/articles/standarty-iso-v-dokumentaczii-na-po/)
+
+[Рецензия технического писателя на книгу: "Пиши, сокращай"](https://vdoke.ru/articles/pishi-sokrashchaj-recenziya/)
+
+[Авторизация и аутентификация - в чем разница](https://vdoke.ru/articles/avtorizaciya-i-autentifikaciya-raznica/)
+
+[Внесение в Реестр Программного обеспечения - ЧаВо / FAQ](https://vdoke.ru/articles/faq-vklyuchenie-v-reestr-rossijskogo-programmnogo-obespecheniya/)
+
+# Контакты для связи
+
+<p align="center">
+    <a href="mailto:pisnovastasia@gmail.com">
+        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/gmail.png?raw=true">
+    </a>
+    <a href="t.me/kawaiianxiety">
+        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/telegram.png?raw=true">
+    </a>
+    <a href="https://www.linkedin.com/in/anastasiya-pisnova">
+        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png?raw=true">
+    </a>
+</p>

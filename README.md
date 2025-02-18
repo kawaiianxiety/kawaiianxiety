@@ -18,7 +18,7 @@ Choose a language:
 
 - читать техническую документацию на английском;
 - писать простые инструкции на английском;
-- пользоваться CAT-системами;
+- пользоваться CAT-системами для переводов;
 - собирать информацию из разных источников и структурировать её;
 - задавать вопросы заказчикам и собирать обратную связь;
 - оценивать задачи в сторипоинтах и планировать нагрузку;
@@ -34,9 +34,11 @@ Choose a language:
 
 ***Младший технический писатель***
 
-Поддерживаю внешнюю документацию: от Справки для покупателей до инструкций по работе с внутренними сервисами. Вычитываю мердж-реквесты и переводы коллег. Размечаю готовые тексты в Markdown с использованием шорткодов Hugo. Валидирую ответы чат-ботов, чтобы они соответствовали стайлгайду и были понятны пользователю. Снимаю скриншоты и оформляю их в Figma.
+Поддерживаю внешнюю документацию: от Справки для покупателей до инструкций по работе с внутренними сервисами. Участвую в запусках новых продуктов, для которых нужна пользовательская документация. Вычитываю мердж-реквесты и переводы коллег. Перевожу статьи из Справок на английский язык с помощью SmartCat. Размечаю готовые тексты в Markdown с использованием шорткодов Hugo. Валидирую ответы чат-ботов, чтобы они соответствовали стайлгайду и были понятны пользователю. Снимаю скриншоты и оформляю их в Figma.
 
 Провела внутренний мастер-класс по работе с Confluence для 15 человек. Для этого собрала лучшие практики и структурировала их в презентации. Также подготовила интерактивную часть с «прожаркой» пространств коллег и разбором, как сделать лучше.
+
+Выступила на Techdoc Meetup с докладом о ведении эпиков. [Ссылка на запись митапа с таймкодом](https://youtu.be/zMKQlGvhWtI?t=616)
 
 #### Консорциум Кодекс, февраль 2023 — январь 2024
 
@@ -79,7 +81,7 @@ Now I write in a simple language and use docs-as-code paradigm.
 
 - read English technical documentation;
 - write simple guides in English;
-- use CAT-tools;
+- use CAT-tools for translations from Russian to English;
 - collect the information and structure it;
 - ask questions to task reporters and collect the feedback;
 - estimate tasks in story points and plan my work;
@@ -95,7 +97,10 @@ Now I write in a simple language and use docs-as-code paradigm.
 
 ***Junior technical writer***
 
-Development and support of user documentation. Proofreading coworkers' MRs and translations.
+Development and support of user documentation.
+Took part in launching new products which need user documentation.
+Proofreading coworkers' MRs and translations.
+Translate Help articles to English using SmartCat.
 Marking up the text using Markdown and Hugo shortcodes. Validating chatbot answers to match with the styleguide.
 Designing screenshots via Figma.
 
@@ -103,6 +108,8 @@ I organized the inner Confluence workshop for 15 people.
 For this, I colleceted best practices and merged them on a presentation.
 Also I prepared an interactive when all members learnt other's Confluence spaces and suggested about placing information,
 page design etc.
+
+I took a part in Ozon Techdoc Meetup as a speaker. I told how our team manage epic tasks. [Meetup record link with timecode](https://youtu.be/zMKQlGvhWtI?t=616)
 
 #### Kodeks, February 2023 — January 2024
 
@@ -120,7 +127,7 @@ Development of technical documentation for programs with state standarts.
 Mostly it was program working documentation and documentation for submitting a request to the domestic software registry.
 Editing documentation with coworkers. Writing and reviewing articles for company website about technical documentation.
 
-In total, I take part in six projects. I developed docs for two ones and reviewed in the other ones.
+In total, I took part in six projects. I developed docs for two ones and reviewed in the other ones.
 
 ### Contacts
 
